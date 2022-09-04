@@ -1,0 +1,12 @@
+.seccion {
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: blue;
+
+}
+
+body{
+
+    background-color: darkgray;
+}
